@@ -1,5 +1,5 @@
 # Element_UI
-element-ui学习，基于小滴课堂
+element-ui学习，基于小滴课堂  
 vue create xxx   创建项目 xxx为项目名称
 
 # 项目启动步骤(命令行)：
