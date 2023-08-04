@@ -8,4 +8,5 @@ vue create xxx   创建项目 xxx为项目名称
   
   2、 npm install 安装项目所需的依赖包,该步骤中容易出错  
   
-  3、 npm run serve 启动项目
+  3、 npm run serve 启动项目  
+  
